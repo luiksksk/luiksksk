@@ -41,9 +41,10 @@ I like software that's understandable, useful, and built with reliability and se
 </p>
 
 <p align="center">
-  <strong>deftones / private music</strong><br />
-  <sub>The soundtrack after midnight.</sub><br /><br />
-  <a href="https://deftones.lnk.to/PrivateMusic">Listen to the album ↗</a>
+  <a href="https://deftones.lnk.to/PrivateMusic">
+    <img src="./deftones-player.svg" width="720" alt="Deftones — private music. Click to open the album; player controls and equalizer are decorative." />
+  </a><br />
+  <sub>Click the player to open the album on your music service.</sub>
 </p>
 
 <p align="center">
@@ -55,4 +56,5 @@ I like software that's understandable, useful, and built with reliability and se
 <p align="center">
   <sub>Design, systems, good coffee. Headphones on.</sub>
 </p>
+
 

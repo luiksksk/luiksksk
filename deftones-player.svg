@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">After Hours — Deftones / private music</title>
+  <desc id="desc">Purple retro music player with a decorative animated equalizer. Click the image in the README to open the album. Playback controls are decorative.</desc>
+  <defs>
+    <linearGradient id="shell" x2="0" y2="1"><stop stop-color="#433252"/><stop offset="1" stop-color="#21172d"/></linearGradient>
+    <linearGradient id="button" x2="0" y2="1"><stop stop-color="#695279"/><stop offset="1" stop-color="#35243f"/></linearGradient>
+  </defs>
+  <style>
+    .bar { fill:#c4b5fd; transform-box:fill-box; transform-origin:center bottom; animation:pulse 1.4s ease-in-out infinite alternate; }
+    @keyframes pulse { from {transform:scaleY(.28)} to {transform:scaleY(1)} }
+    @media (prefers-reduced-motion:reduce) { .bar {animation:none} }
+    text {font-family:Consolas,monospace}
+  </style>
+  <rect x="2" y="2" width="716" height="256" rx="10" fill="url(#shell)" stroke="#a18aac" stroke-width="2"/>
+  <rect x="9" y="9" width="702" height="25" rx="3" fill="#17111e"/>
+  <path d="M22 18h180m-180 6h180m316-6h110m-110 6h110" stroke="#655073"/>
+  <text x="360" y="26" text-anchor="middle" font-size="13" letter-spacing="3" fill="#e7d9f2">AFTER HOURS</text>
+  <path d="M652 25h10m13-8h10v10h-10zM695 18l7 8m0-8l-7 8" fill="none" stroke="#b9a6c7" stroke-width="1.5"/>
+  <rect x="20" y="47" width="680" height="105" rx="4" fill="#100d16" stroke="#796085"/>
+  <text x="38" y="75" fill="#9f87b2" font-size="11" letter-spacing="2">LUIKSKSK / MUSIC CORNER</text>
+  <text x="37" y="109" fill="#efe4ff" font-size="29" letter-spacing="2">deftones</text>
+  <text x="39" y="133" fill="#d9f99d" font-size="17" letter-spacing="2">private music</text>
+  <text x="342" y="75" fill="#9f87b2" font-size="10" letter-spacing="2">SOUNDTRACK AFTER MIDNIGHT</text>
+    <rect x="342" y="92" width="6" height="40" class="bar" style="animation-delay:-0s"/>
+    <rect x="352" y="105" width="6" height="27" class="bar" style="animation-delay:-0.19s"/>
+    <rect x="362" y="118" width="6" height="14" class="bar" style="animation-delay:-0.38s"/>
+    <rect x="372" y="104" width="6" height="28" class="bar" style="animation-delay:-0.5700000000000001s"/>
+    <rect x="382" y="117" width="6" height="15" class="bar" style="animation-delay:-0.76s"/>
+    <rect x="392" y="103" width="6" height="29" class="bar" style="animation-delay:-0.95s"/>
+    <rect x="402" y="116" width="6" height="16" class="bar" style="animation-delay:-1.1400000000000001s"/>
+    <rect x="412" y="102" width="6" height="30" class="bar" style="animation-delay:-0s"/>
+    <rect x="422" y="115" width="6" height="17" class="bar" style="animation-delay:-0.19s"/>
+    <rect x="432" y="101" width="6" height="31" class="bar" style="animation-delay:-0.38s"/>
+    <rect x="442" y="114" width="6" height="18" class="bar" style="animation-delay:-0.5700000000000001s"/>
+    <rect x="452" y="100" width="6" height="32" class="bar" style="animation-delay:-0.76s"/>
+    <rect x="462" y="113" width="6" height="19" class="bar" style="animation-delay:-0.95s"/>
+    <rect x="472" y="99" width="6" height="33" class="bar" style="animation-delay:-1.1400000000000001s"/>
+    <rect x="482" y="112" width="6" height="20" class="bar" style="animation-delay:-0s"/>
+    <rect x="492" y="98" width="6" height="34" class="bar" style="animation-delay:-0.19s"/>
+    <rect x="502" y="111" width="6" height="21" class="bar" style="animation-delay:-0.38s"/>
+    <rect x="512" y="97" width="6" height="35" class="bar" style="animation-delay:-0.5700000000000001s"/>
+    <rect x="522" y="110" width="6" height="22" class="bar" style="animation-delay:-0.76s"/>
+    <rect x="532" y="96" width="6" height="36" class="bar" style="animation-delay:-0.95s"/>
+    <rect x="542" y="109" width="6" height="23" class="bar" style="animation-delay:-1.1400000000000001s"/>
+    <rect x="552" y="95" width="6" height="37" class="bar" style="animation-delay:-0s"/>
+    <rect x="562" y="108" width="6" height="24" class="bar" style="animation-delay:-0.19s"/>
+    <rect x="572" y="94" width="6" height="38" class="bar" style="animation-delay:-0.38s"/>
+    <rect x="582" y="107" width="6" height="25" class="bar" style="animation-delay:-0.5700000000000001s"/>
+    <rect x="592" y="93" width="6" height="39" class="bar" style="animation-delay:-0.76s"/>
+    <rect x="602" y="106" width="6" height="26" class="bar" style="animation-delay:-0.95s"/>
+    <rect x="612" y="92" width="6" height="40" class="bar" style="animation-delay:-1.1400000000000001s"/>
+  <text x="649" y="111" fill="#d9f99d" font-size="12" transform="rotate(-90 649 111)">STEREO</text>
+  <path d="M24 166h672" stroke="#130e1a" stroke-width="5"/>
+  <path d="M24 166h206" stroke="#b49acf" stroke-width="3"/>
+  <rect x="218" y="161" width="20" height="10" rx="2" fill="#dfcff0" stroke="#291e34"/>
+  <g fill="url(#button)" stroke="#947aa6">
+    <rect x="22" y="185" width="44" height="32" rx="3"/>
+    <rect x="70" y="185" width="44" height="32" rx="3"/>
+    <rect x="118" y="185" width="44" height="32" rx="3"/>
+    <rect x="166" y="185" width="44" height="32" rx="3"/>
+    <rect x="214" y="185" width="44" height="32" rx="3"/>
+  </g>
+  <g fill="#f0e5fb">
+    <path d="M34 194h3v14h-3zm16 0v14l-11-7zM85 193l15 8-15 8zM131 194h4v14h-4zm8 0h4v14h-4zM180 194h14v14h-14zM242 194h3v14h-3zm-14 0l11 7-11 7z"/>
+  </g>
+  <text x="283" y="206" font-size="11" letter-spacing="1" fill="#c1add0">VOL</text>
+  <path d="M317 201h106" stroke="#110d17" stroke-width="5"/>
+  <path d="M317 201h72" stroke="#c4b5fd" stroke-width="3"/>
+  <rect x="383" y="195" width="12" height="12" rx="2" fill="#dfcff0"/>
+  <rect x="466" y="185" width="232" height="32" rx="3" fill="#d9f99d"/>
+  <text x="582" y="206" text-anchor="middle" font-size="13" font-weight="bold" fill="#212b14">OPEN ALBUM ↗</text>
+  <text x="24" y="240" font-size="10" letter-spacing="1" fill="#bca6ca">WHITE PONY · DIAMOND EYES · KOI NO YOKAN · OHMS</text>
+  <text x="697" y="240" text-anchor="end" font-size="10" fill="#bca6ca">DECORATIVE PLAYER</text>
+</svg>
+
