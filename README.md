@@ -21,7 +21,7 @@ Environmental intelligence for industrial operations. A full-stack platform for 
 
 ## Toolbox
 
-`TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Prisma` `Docker`
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,postgres,supabase,prisma,docker)](https://skillicons.dev)
 
 ## How I like to work
 
