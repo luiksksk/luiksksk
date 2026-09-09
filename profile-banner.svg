@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Cavalheiro — Full-stack, AI, Product</title>
+  <desc id="desc">Dark violet banner with orbital lines and a Deftones after-hours soundtrack reference.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#100d19"/><stop offset=".6" stop-color="#20132e"/><stop offset="1" stop-color="#382048"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#a78bfa" stop-opacity=".23"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="400" rx="18" fill="url(#bg)"/>
+  <ellipse cx="1050" cy="165" rx="380" ry="330" fill="url(#glow)"/>
+  <g fill="none" stroke="#c4b5fd" stroke-opacity=".18">
+    <ellipse cx="1050" cy="190" rx="190" ry="130" transform="rotate(-35 1050 190)"/>
+    <ellipse cx="1050" cy="190" rx="235" ry="165" transform="rotate(-35 1050 190)"/>
+    <ellipse cx="1050" cy="190" rx="280" ry="200" transform="rotate(-35 1050 190)"/>
+    <circle cx="1050" cy="190" r="65"/>
+    <path d="M1018 190h64M1050 158v64"/>
+  </g>
+  <circle cx="1120" cy="77" r="5" fill="#d9f99d"/>
+  <path d="M64 62h32" stroke="#c4b5fd" stroke-width="3"/>
+  <text x="110" y="67" fill="#c4b5fd" font-family="monospace" font-size="15" letter-spacing="4">LUIKSKSK / AFTER HOURS</text>
+  <text x="62" y="172" fill="#f5f0ff" font-family="Georgia, serif" font-size="70">Luiz Cavalheiro</text>
+  <text x="66" y="220" fill="#d3c5e8" font-family="Arial, sans-serif" font-size="21" letter-spacing="3">FULL-STACK · AI · PRODUCT</text>
+  <path d="M66 267h1148" stroke="#c4b5fd" stroke-opacity=".2"/>
+  <text x="66" y="318" fill="#b6a3c9" font-family="monospace" font-size="16">code, coffee &amp; a little distortion.</text>
+  <text x="66" y="353" fill="#d9f99d" font-family="monospace" font-size="13" letter-spacing="2">ON ROTATION / DEFTONES — PRIVATE MUSIC</text>
+</svg>
+
