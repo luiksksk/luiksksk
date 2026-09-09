@@ -4,7 +4,7 @@
 
 I build software that turns complex problems into clear, useful experiences.
 
-My interests sit at the intersection of full-stack development, AI, data, and thoughtful product design. I enjoy working across the stack — from shaping a domain model and designing an interface to making the system reliable in production.
+My interests sit at the intersection of full-stack development, AI, data, and thoughtful product design. I enjoy working across the stack from shaping a domain model and designing an interface to making the system reliable in production.
 
 ## What I'm working on
 
