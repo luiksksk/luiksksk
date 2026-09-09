@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Luiz Cavalheiro — Full-stack, AI, Product. After-hours soundtrack: Deftones / private music." />
+  <img src="./profile-banner.svg" width="100%" alt="Luiz Cavalheiro — Full-stack, AI, Product. After-hours soundtrack: Deftones / private music." />
 </p>
 
 <p align="center">
