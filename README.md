@@ -21,7 +21,7 @@ Environmental intelligence for industrial operations. A full-stack platform for 
 
 ## Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,postgres,supabase,prisma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,postgres,supabase,prisma,docker,debian,linux,vscode)](https://skillicons.dev)
 
 ## How I like to work
 
